@@ -1,0 +1,6 @@
+{
+    "templateDirectory": "templates",
+    "cacheEnabled": true,
+s    "maxCacheSize": 1000,
+s    "errorLog": "logs/errors.log"
+s}
